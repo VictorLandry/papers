@@ -1,2 +1,2 @@
 # papers
-a collection of my recent writing
+This is a scholarly paper describing the use of a modified Marascuilo procedure for data mining in R code.
